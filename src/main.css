@@ -1,0 +1,14 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ @font-face {
+    font-family: IranTea;
+    src: url(../public/fonts/IRANSansWeb-Light.eot);
+    src: url(../public/fonts/IRANSansWeb-Light.ttf);
+    src: url(../public/fonts/IRANSansWeb-Light.woff);
+    src: url(../public/fonts/IRANSansWeb-Light.woff2);
+ }
+ body{
+    font-family: IranTea;
+ }
